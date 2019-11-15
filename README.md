@@ -1,5 +1,7 @@
 # Node Legacy Debug
 
+> 相关文章地址：[《解密 VS Code 断点调试的原理》](https://www.barretlee.com/blog/2019/11/15/vscode-study-03-debug-protocol/)
+
 一个 Node Debug 的调试 Demo。
 
 > 请将 Node.js 版本调整到 v6.3 一下，如 v6.2.2

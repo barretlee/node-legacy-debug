@@ -1,0 +1,19 @@
+{
+  "name": "legacy-debug",
+  "version": "1.0.0",
+  "description": "Node legacy debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barretlee/node-legacy-debug.git"
+  },
+  "author": "Barret Lee <barret.china@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barretlee/node-legacy-debug/issues"
+  },
+  "homepage": "https://github.com/barretlee/node-legacy-debug#readme"
+}

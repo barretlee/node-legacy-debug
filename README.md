@@ -1,4 +1,4 @@
-# Node Legacy Demo
+# Node Legacy Debug
 
 一个 Node Debug 的调试 Demo。
 
